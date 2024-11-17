@@ -10,6 +10,7 @@ public class mul {
 		int c= a*b;
 		
 		System.out.println("multiplication of two numbers is: " +c);
+		System.out.println("the program was successful");
 		
 
 	}
